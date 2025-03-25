@@ -1,0 +1,42 @@
+[submodule "PrepCourse/Prueba1"]
+	path = PrepCourse/Prueba1
+	url = https://github.com/vespinozagallegos/PrepCourse-Henry.git
+[submodule "PrepCourse/Prueba2"]
+	path = PrepCourse/Prueba2
+	url = https://github.com/vespinozagallegos/PrepCourseSinReadme.git
+[submodule "PrepCourse/SimulacionPruebaPractica"]
+	path = PrepCourse/SimulacionPruebaPractica
+	url = https://github.com/vespinozagallegos/WILL.git
+[submodule "PrepCourse/PruebasPracticas"]
+	path = PrepCourse/PruebasPracticas
+	url = https://github.com/vespinozagallegos/fe-ct-prepcourse-fs.git
+[submodule "M3/PrimeraDemoConVite"]
+	path = M3/PrimeraDemoConVite
+	url = https://github.com/vespinozagallegos/DEMOS---M3.git
+[submodule "M3/DemoC8-ReactDataFlow"]
+	path = M3/DemoC8-ReactDataFlow
+	url = https://github.com/vespinozagallegos/DEMO-M3-C8-ReacDataFlow.git
+[submodule "M3/DemoC9-ReactLifeCycle"]
+	path = M3/DemoC9-ReactLifeCycle
+	url = https://github.com/vespinozagallegos/DEMO-M3-C9-ReatLifeCycle.git
+[submodule "M3/DemoC10-ReactForms"]
+	path = M3/DemoC10-ReactForms
+	url = https://github.com/vespinozagallegos/DEMO-M3-C10-ReactForms.git
+[submodule "M3/DemoC12-ReactContext"]
+	path = M3/DemoC12-ReactContext
+	url = https://github.com/vespinozagallegos/C12-ReactContext.git
+[submodule "M4/DemoC2-ReactTypeScript"]
+	path = M4/DemoC2-ReactTypeScript
+	url = https://github.com/vespinozagallegos/M4-C2-React-Typescript.git
+[submodule "M4/DemoC2-ViteTypeScript"]
+	path = M4/DemoC2-ViteTypeScript
+	url = https://github.com/vespinozagallegos/proyecto-vite-ts-m4.git
+[submodule "M4/DemoC3-NextJS"]
+	path = M4/DemoC3-NextJS
+	url = https://github.com/vespinozagallegos/Proyecto-NextJS-M4-C3.git
+[submodule "M4/DemoC4-RoutingNextJS"]
+	path = M4/DemoC4-RoutingNextJS
+	url = https://github.com/vespinozagallegos/Routing-NextJS-M4-C4.git
+[submodule "ProyectoFinalEnGrupo/Repo-de-prueba-grupal"]
+	path = ProyectoFinalEnGrupo/Repo-de-prueba-grupal
+	url = https://github.com/vespinozagallegos/Repo-de-prueba-grupal.git
